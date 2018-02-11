@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.test.qa.Amazon.LoginPage.TC001_VerifyLogin">
+      <class name="com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet">
         <methods>
           <include name="setUp"/>
+          <include name="verifyLogin" invocation-numbers="0"/>
           <include name="endTest"/>
-          <include name="verifyLogin"/>
         </methods>
-      </class> <!-- com.test.qa.Amazon.LoginPage.TC001_VerifyLogin -->
+      </class> <!-- com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
