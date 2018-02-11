@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36879" started-at="2018-02-10T14:00:41Z" finished-at="2018-02-10T14:01:18Z">
+  <suite name="Default suite" duration-ms="27810" started-at="2018-02-11T10:44:25Z" finished-at="2018-02-11T10:44:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36879" started-at="2018-02-10T14:00:41Z" finished-at="2018-02-10T14:01:18Z">
+    <test name="Default test" duration-ms="27810" started-at="2018-02-11T10:44:25Z" finished-at="2018-02-11T10:44:53Z">
       <class name="com.test.qa.Amazon.LoginPage.TC001_VerifyLogin">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@8bd1b6a]" name="setUp" is-config="true" duration-ms="13063" started-at="2018-02-10T15:00:41Z" finished-at="2018-02-10T15:00:54Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@5442a311]" name="setUp" is-config="true" duration-ms="8215" started-at="2018-02-11T11:44:25Z" finished-at="2018-02-11T11:44:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@8bd1b6a]" name="verifyLogin" duration-ms="23467" started-at="2018-02-10T15:00:54Z" finished-at="2018-02-10T15:01:18Z">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@5442a311]" name="verifyLogin" duration-ms="18842" started-at="2018-02-11T11:44:33Z" finished-at="2018-02-11T11:44:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@8bd1b6a]" name="endTest" is-config="true" duration-ms="307" started-at="2018-02-10T15:01:18Z" finished-at="2018-02-10T15:01:18Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC001_VerifyLogin@5442a311]" name="endTest" is-config="true" duration-ms="709" started-at="2018-02-11T11:44:52Z" finished-at="2018-02-11T11:44:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
