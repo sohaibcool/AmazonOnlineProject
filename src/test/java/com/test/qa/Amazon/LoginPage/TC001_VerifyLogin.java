@@ -15,9 +15,9 @@ public class TC001_VerifyLogin extends TestBase {
 	
 	public static final Logger log= Logger.getLogger(TC001_VerifyLogin.class.getName());
 	
-	//WebDriver driver;
 	LoginPage loginPage;
-	
+	String email ="sohaibcool@gmail.com";
+	String pws = "Allah@123";
 	@BeforeTest
 	public void setUp() {
 		log.info("initialzing all the variable and methods");
@@ -28,7 +28,7 @@ public class TC001_VerifyLogin extends TestBase {
 	public void verifyLogin() throws InterruptedException {
 		log.info("________________Started execution verifyLogin__________");
 		loginPage = new LoginPage(driver);
-		loginPage.loginInApplication("sohaibcool@gmail.com", "Allah@123");
+		loginPage.loginInApplication(email, pws);
 		log.info("________________Completed execution verifyLogin__________");
 	}
 	@AfterClass
