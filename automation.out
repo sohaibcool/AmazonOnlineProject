@@ -1,0 +1,278 @@
+2018-02-11 11:31:50 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 11:32:02 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 11:38:41 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 11:38:43 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 11:39:28 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 11:39:30 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 11:39:30 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 11:39:40 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 11:42:10 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 11:42:12 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 11:42:12 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 11:42:22 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 11:44:33 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 11:44:37 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 11:44:37 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 11:44:43 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 11:44:46 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[ChromeDriver: chrome on XP (078ee5676e966e1ccbbb9d5330febaa8)] -> xpath: //input[@type='submit']]
+2018-02-11 11:44:46 INFO  LoginPage:70 - ----------SignIn element is present-------->[[ChromeDriver: chrome on XP (078ee5676e966e1ccbbb9d5330febaa8)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 11:44:52 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 11:44:52 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 13:43:30 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 13:43:32 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 13:43:33 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 13:43:33 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 13:43:35 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[ChromeDriver: chrome on XP (a5d73707e3c6dc6ab78b4912c468452d)] -> xpath: //input[@type='submit']]
+2018-02-11 13:43:35 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 13:43:41 INFO  LoginPage:70 - ----------SignIn element is present-------->[[ChromeDriver: chrome on XP (a5d73707e3c6dc6ab78b4912c468452d)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 13:43:50 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 13:43:50 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 13:46:04 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 13:46:05 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 13:46:05 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 13:46:05 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 13:46:07 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[ChromeDriver: chrome on XP (1d4049b04535be82c32cd9a0df10295a)] -> xpath: //input[@type='submit']]
+2018-02-11 13:46:08 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 13:46:11 INFO  LoginPage:70 - ----------SignIn element is present-------->[[ChromeDriver: chrome on XP (1d4049b04535be82c32cd9a0df10295a)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 13:46:18 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 13:46:18 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 15:02:55 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:03:01 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:03:01 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:03:06 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:03:13 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (fbd31d9d-39d0-4d1c-aefe-8ac74b952858)] -> xpath: //input[@type='submit']]
+2018-02-11 15:03:13 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (fbd31d9d-39d0-4d1c-aefe-8ac74b952858)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:05:42 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:05:43 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:05:44 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:05:44 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:05:45 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (5bc69a77-65b6-4180-818f-e7d617d5455d)] -> xpath: //input[@type='submit']]
+2018-02-11 15:05:45 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:05:49 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (5bc69a77-65b6-4180-818f-e7d617d5455d)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:07:27 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:07:28 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:07:28 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:07:28 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:07:30 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (225119e5-000f-44fa-a1af-68e1581adf10)] -> xpath: //input[@type='submit']]
+2018-02-11 15:07:30 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:07:34 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (225119e5-000f-44fa-a1af-68e1581adf10)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:12:15 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:12:18 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:12:18 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:12:23 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:12:27 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (529dcb97-3650-497c-ab6c-83502977095b)] -> xpath: //input[@type='submit']]
+2018-02-11 15:13:05 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (529dcb97-3650-497c-ab6c-83502977095b)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:14:20 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 15:14:27 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 15:14:45 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:14:47 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:14:47 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:14:47 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:14:48 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (695e86cf-7b3a-47a6-986a-677f90c06ebb)] -> xpath: //input[@type='submit']]
+2018-02-11 15:14:48 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:14:54 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (695e86cf-7b3a-47a6-986a-677f90c06ebb)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:15:05 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 15:15:05 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 15:29:20 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:29:22 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:29:23 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:29:28 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:29:33 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (703879c4-f081-47fc-a802-21dbc9f6e75b)] -> xpath: //input[@type='submit']]
+2018-02-11 15:29:33 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (703879c4-f081-47fc-a802-21dbc9f6e75b)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:29:44 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 15:29:44 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 15:34:39 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:34:40 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:34:41 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:34:46 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:34:51 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (c8da84d8-4fb2-4601-b1cf-7a8440e74d09)] -> xpath: //input[@type='submit']]
+2018-02-11 15:34:51 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (c8da84d8-4fb2-4601-b1cf-7a8440e74d09)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:35:16 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:35:18 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:35:18 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:35:18 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:35:20 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (d285546a-8d68-4d12-b3c2-1dcbe18330be)] -> xpath: //input[@type='submit']]
+2018-02-11 15:35:20 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:35:24 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (d285546a-8d68-4d12-b3c2-1dcbe18330be)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:35:57 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:35:58 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:35:59 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:35:59 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:36:00 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (820810dd-962e-4570-b517-195df27b3ee9)] -> xpath: //input[@type='submit']]
+2018-02-11 15:36:00 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:36:24 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (820810dd-962e-4570-b517-195df27b3ee9)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:37:19 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 15:37:31 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 15:38:23 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 15:38:25 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 15:38:25 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 15:38:25 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 15:38:27 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (23baef59-cd36-40ef-bd23-7399927f9535)] -> xpath: //input[@type='submit']]
+2018-02-11 15:38:27 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 15:38:31 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (23baef59-cd36-40ef-bd23-7399927f9535)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 15:38:42 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 15:38:42 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 20:00:16 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 20:00:19 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 20:00:19 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 20:00:24 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 20:00:28 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (258787bf-7e28-4f3a-8220-c9cbd5aaf05a)] -> xpath: //input[@type='submit']]
+2018-02-11 20:00:28 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (258787bf-7e28-4f3a-8220-c9cbd5aaf05a)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 20:00:40 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 20:00:40 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 20:58:28 INFO  TC002_LoginFromDataSheet:34 - ________________Started execution verifyLogin__________
+2018-02-11 20:58:29 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 20:58:30 INFO  LoginPage:50 - ----------Entered surename-------->null
+2018-02-11 20:58:30 INFO  LoginPage:55 - ----------Password was not dispalyed-------->null
+2018-02-11 20:58:31 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (73fd5c13-8b0b-444d-acc1-e955eab410c8)] -> xpath: //input[@type='submit']]
+2018-02-11 21:03:29 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 21:03:30 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:03:31 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:03:31 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:03:32 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (52f92a09-49d4-4fed-b787-2643e37d7a46)] -> xpath: //input[@type='submit']]
+2018-02-11 21:03:32 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:03:38 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (52f92a09-49d4-4fed-b787-2643e37d7a46)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:49:14 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:49:15 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:49:15 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:49:15 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:49:16 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (010ddbf2-9d5b-4afa-b1d9-381cad378073)] -> xpath: //input[@type='submit']]
+2018-02-11 21:49:17 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:49:22 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (010ddbf2-9d5b-4afa-b1d9-381cad378073)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:53:31 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:54:38 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:54:39 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:54:39 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:54:39 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:54:40 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (b9c276ef-909c-4dc3-8201-003f2ecc03c4)] -> xpath: //input[@type='submit']]
+2018-02-11 21:54:40 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:54:50 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (b9c276ef-909c-4dc3-8201-003f2ecc03c4)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:55:02 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 21:55:02 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-11 21:55:23 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:55:24 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:55:25 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:55:25 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:55:26 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (628788d3-14b9-4ce3-b33d-5d6ee07eebfd)] -> xpath: //input[@type='submit']]
+2018-02-11 21:55:26 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:55:34 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (628788d3-14b9-4ce3-b33d-5d6ee07eebfd)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:56:37 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:56:38 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:56:38 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:56:43 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:56:47 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (a014d0e9-f6d0-4b1b-9b4b-5a79c78556f7)] -> xpath: //input[@type='submit']]
+2018-02-11 21:56:47 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (a014d0e9-f6d0-4b1b-9b4b-5a79c78556f7)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:57:30 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:57:31 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:57:32 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:57:32 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:57:33 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (435eec7e-c557-42cc-ac6a-bfaab738507f)] -> xpath: //input[@type='submit']]
+2018-02-11 21:57:33 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:57:38 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (435eec7e-c557-42cc-ac6a-bfaab738507f)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:58:30 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:58:32 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:58:32 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:58:32 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 21:58:34 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (638a77b9-7adb-4905-82e8-a44af5648177)] -> xpath: //input[@type='submit']]
+2018-02-11 21:58:34 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:58:38 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (638a77b9-7adb-4905-82e8-a44af5648177)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:59:14 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 21:59:15 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 21:59:15 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 21:59:20 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 21:59:25 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (752c4da6-baf3-41db-8442-c8df7ecce1bd)] -> xpath: //input[@type='submit']]
+2018-02-11 21:59:25 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (752c4da6-baf3-41db-8442-c8df7ecce1bd)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 21:59:36 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 21:59:36 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-11 22:01:42 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-11 22:01:43 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:01:43 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:01:44 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 22:01:45 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (4a2b860c-29f5-46e8-a1bb-69aef1da2ccc)] -> xpath: //input[@type='submit']]
+2018-02-11 22:01:45 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:01:50 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (4a2b860c-29f5-46e8-a1bb-69aef1da2ccc)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:02:01 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 22:02:01 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-11 22:02:27 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:02:28 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:02:28 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:02:33 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:02:38 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (965238fd-23c8-46e2-8b6f-777629d467a7)] -> xpath: //input[@type='submit']]
+2018-02-11 22:02:38 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (965238fd-23c8-46e2-8b6f-777629d467a7)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:12:30 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:12:31 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:12:31 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:12:31 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 22:12:33 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (92cb24cf-c5f4-4354-8c22-e447751b7e95)] -> xpath: //input[@type='submit']]
+2018-02-11 22:12:33 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:12:37 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (92cb24cf-c5f4-4354-8c22-e447751b7e95)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:12:48 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 22:12:48 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-11 22:14:11 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:14:13 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:14:13 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:14:18 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:14:22 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (8f002c75-21c6-428d-b714-5ea44436a661)] -> xpath: //input[@type='submit']]
+2018-02-11 22:14:22 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (8f002c75-21c6-428d-b714-5ea44436a661)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:14:51 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:14:52 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:14:52 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:14:57 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:15:02 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (0697734b-ba94-4802-8cd4-78771e28b286)] -> xpath: //input[@type='submit']]
+2018-02-11 22:15:02 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (0697734b-ba94-4802-8cd4-78771e28b286)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:15:24 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:15:26 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:15:26 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:15:26 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-11 22:15:27 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (ccdb3c59-a5a1-43c1-92d3-9d32b20c1de6)] -> xpath: //input[@type='submit']]
+2018-02-11 22:15:27 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:15:31 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (ccdb3c59-a5a1-43c1-92d3-9d32b20c1de6)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:15:43 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 22:15:43 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-11 22:25:13 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-11 22:25:14 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-11 22:25:14 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-11 22:25:19 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-11 22:25:25 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (280f4a1b-b981-402a-96b5-8f6f116ffcb4)] -> xpath: //input[@type='submit']]
+2018-02-11 22:25:25 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (280f4a1b-b981-402a-96b5-8f6f116ffcb4)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-11 22:25:36 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-11 22:25:36 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-12 08:26:58 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-12 08:27:01 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 08:27:01 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 08:27:07 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 08:27:11 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (a7e94a4b-61bd-469f-8aca-01699e6abaef)] -> xpath: //input[@type='submit']]
+2018-02-12 08:27:11 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (a7e94a4b-61bd-469f-8aca-01699e6abaef)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 08:27:22 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 08:27:22 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-12 08:28:07 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-12 08:28:08 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 08:28:08 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 08:28:13 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 08:28:16 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (36b3a609-8e4a-4ae8-b230-9177cf95c725)] -> xpath: //input[@type='submit']]
+2018-02-12 08:28:16 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (36b3a609-8e4a-4ae8-b230-9177cf95c725)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 08:28:52 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-12 08:28:53 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 08:28:53 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 08:28:53 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 08:28:55 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (308cffd3-8139-4155-ad5c-99c1c6a3b832)] -> xpath: //input[@type='submit']]
+2018-02-12 08:28:55 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 08:28:59 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (308cffd3-8139-4155-ad5c-99c1c6a3b832)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 08:29:10 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 08:29:10 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-12 11:44:46 INFO  TC002_LoginFromDataSheet:38 - ________________Started execution verifyLogin__________
+2018-02-12 11:44:54 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 11:44:55 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 11:45:00 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 11:45:06 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (70be2f41-50e6-4537-ad52-1f1de9715cf4)] -> xpath: //input[@type='submit']]
+2018-02-12 11:45:36 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (70be2f41-50e6-4537-ad52-1f1de9715cf4)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 11:46:38 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 11:46:46 INFO  TC002_LoginFromDataSheet:41 - ________________Completed execution verifyLogin__________
+2018-02-12 16:48:14 INFO  TC002_LoginFromDataSheet:40 - ________________Started execution verifyLogin__________
+2018-02-12 16:48:18 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 16:48:18 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 16:48:23 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 16:48:30 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (0bafd533-035d-4490-9c9d-37b8b08d6816)] -> xpath: //input[@type='submit']]
+2018-02-12 16:48:30 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (0bafd533-035d-4490-9c9d-37b8b08d6816)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 16:48:41 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 16:48:41 INFO  TC002_LoginFromDataSheet:44 - ________________Completed execution verifyLogin__________
