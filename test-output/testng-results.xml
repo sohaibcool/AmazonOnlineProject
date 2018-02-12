@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\Mohammed Sohaib\eclipse-workspace\Amazon\src\main\java\com\test\qa\Amazon\screenShots\verifyLoginsohaibcool@gmail.com_12_02_2018_04_48_41.png'> <img src='C:\Users\Mohammed Sohaib\eclipse-workspace\Amazon\src\main\java\com\test\qa\Amazon\screenShots\verifyLoginsohaibcool@gmail.com_12_02_2018_04_48_41.png' height='100' width='100'/> </a>]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29277" started-at="2018-02-11T21:15:14Z" finished-at="2018-02-11T21:15:43Z">
+  <suite name="Default suite" duration-ms="62865" started-at="2018-02-12T15:47:39Z" finished-at="2018-02-12T15:48:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29277" started-at="2018-02-11T21:15:14Z" finished-at="2018-02-11T21:15:43Z">
+    <test name="Default test" duration-ms="62865" started-at="2018-02-12T15:47:39Z" finished-at="2018-02-12T15:48:42Z">
       <class name="com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@77cd7a0]" name="setUp" is-config="true" duration-ms="9075" started-at="2018-02-11T22:15:14Z" finished-at="2018-02-11T22:15:23Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@e25b2fe]" name="setUp" is-config="true" duration-ms="31205" started-at="2018-02-12T16:47:39Z" finished-at="2018-02-12T16:48:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@77cd7a0]" name="verifyLogin" duration-ms="18469" started-at="2018-02-11T22:15:24Z" data-provider="loginData" finished-at="2018-02-11T22:15:43Z">
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@e25b2fe]" name="verifyLogin" duration-ms="27366" started-at="2018-02-12T16:48:14Z" data-provider="loginData" finished-at="2018-02-12T16:48:41Z">
           <params>
             <param index="0">
               <value>
@@ -30,9 +33,12 @@
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Mohammed Sohaib\eclipse-workspace\Amazon\src\main\java\com\test\qa\Amazon\screenShots\verifyLoginsohaibcool@gmail.com_12_02_2018_04_48_41.png'> <img src='C:\Users\Mohammed Sohaib\eclipse-workspace\Amazon\src\main\java\com\test\qa\Amazon\screenShots\verifyLoginsohaibcool@gmail.com_12_02_2018_04_48_41.png' height='100' width='100'/> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@77cd7a0]" name="endTest" is-config="true" duration-ms="447" started-at="2018-02-11T22:15:43Z" finished-at="2018-02-11T22:15:43Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.qa.Amazon.LoginPage.TC002_LoginFromDataSheet@e25b2fe]" name="endTest" is-config="true" duration-ms="818" started-at="2018-02-12T16:48:41Z" finished-at="2018-02-12T16:48:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
