@@ -23,7 +23,7 @@ public class LoginPage {
 	@FindBy(xpath="//input[@type='email']")
 	WebElement loginEmailAddress;
 	
-	@FindBy(xpath="//input[@name='password']")
+	@FindBy(xpath="//input[@name='password123']")
 	WebElement logInPassword;
 	
 	@FindBy(xpath="//input[@type='submit']")
@@ -65,6 +65,13 @@ public class LoginPage {
 		continueBtn.click();
 		log.info("----------clicked on Continue Button-------->"+continueBtn);
 		}
+		
+		
+		
+		
+	}
+	
+	public void logout() throws InterruptedException {
 		Actions a = new Actions(driver);
 		WebElement singInElement = welcomeLoginPage;
 		log.info("----------SignIn element is present-------->"+singInElement);
@@ -75,6 +82,5 @@ public class LoginPage {
 		driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
 		signOutLink.click();
 		log.info("----------clicked on SignOut button-------->"+signOutLink);
-		
 	}
 }

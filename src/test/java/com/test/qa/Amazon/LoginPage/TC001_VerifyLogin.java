@@ -29,6 +29,7 @@ public class TC001_VerifyLogin extends TestBase {
 		log.info("________________Started execution verifyLogin__________");
 		loginPage = new LoginPage(driver);
 		loginPage.loginInApplication(email, pws);
+		loginPage.logout();
 		log.info("________________Completed execution verifyLogin__________");
 	}
 	@AfterClass
@@ -37,3 +38,4 @@ public class TC001_VerifyLogin extends TestBase {
 	}
 	
 }
+//span[contains(text(),'Cell Phones & Accessories')]

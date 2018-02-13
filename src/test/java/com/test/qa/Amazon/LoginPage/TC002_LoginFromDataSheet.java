@@ -41,6 +41,7 @@ public class TC002_LoginFromDataSheet extends TestBase {
 		loginPage = new LoginPage(driver);
 		loginPage.loginInApplication(UserName, Password12);
 		getScreenShot("verifyLogin"+UserName);
+		loginPage.logout();
 		log.info("________________Completed execution verifyLogin__________");
 	}
 

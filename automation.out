@@ -276,3 +276,309 @@
 2018-02-12 16:48:30 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (0bafd533-035d-4490-9c9d-37b8b08d6816)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
 2018-02-12 16:48:41 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
 2018-02-12 16:48:41 INFO  TC002_LoginFromDataSheet:44 - ________________Completed execution verifyLogin__________
+2018-02-12 18:32:24 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-12 18:32:28 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 18:32:28 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 18:32:33 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 18:32:37 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (8f1faa0c-4b8b-4a61-817f-b4baefb0205d)] -> xpath: //input[@type='submit']]
+2018-02-12 18:32:37 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (8f1faa0c-4b8b-4a61-817f-b4baefb0205d)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 18:33:50 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-12 18:33:53 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 18:33:53 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 18:33:58 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 18:34:02 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (6a5a976f-d5d0-45dc-9856-680874d53ecd)] -> xpath: //input[@type='submit']]
+2018-02-12 18:34:02 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (6a5a976f-d5d0-45dc-9856-680874d53ecd)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 18:34:13 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 18:34:13 INFO  TC001_VerifyLogin:32 - ________________Completed execution verifyLogin__________
+2018-02-12 18:34:35 INFO  TC002_LoginFromDataSheet:40 - ________________Started execution verifyLogin__________
+2018-02-12 18:34:36 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 18:34:36 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 18:34:42 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 18:34:46 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (2e8ff0b4-9205-4549-8358-fb107e46d426)] -> xpath: //input[@type='submit']]
+2018-02-12 18:34:46 INFO  LoginPage:70 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (2e8ff0b4-9205-4549-8358-fb107e46d426)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 18:34:57 INFO  LoginPage:77 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 18:34:57 INFO  TC002_LoginFromDataSheet:44 - ________________Completed execution verifyLogin__________
+2018-02-12 18:58:54 INFO  TC002_LoginFromDataSheet:40 - ________________Started execution verifyLogin__________
+2018-02-12 18:58:57 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 18:58:57 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 18:58:57 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 18:58:59 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (b8f8d69b-b9d2-44ba-8c62-49ba8345f765)] -> xpath: //input[@type='submit']]
+2018-02-12 18:58:59 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 18:59:05 INFO  LoginPage:77 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (b8f8d69b-b9d2-44ba-8c62-49ba8345f765)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-12 18:59:16 INFO  LoginPage:84 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-12 18:59:16 INFO  TC002_LoginFromDataSheet:45 - ________________Completed execution verifyLogin__________
+2018-02-12 19:26:54 INFO  TC003_SelectShoppingItem:43 - ________________Started execution verifyLogin__________
+2018-02-12 19:26:56 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 19:26:57 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 19:26:57 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 19:26:58 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (85f67b28-ce5d-42b0-a9b3-1b177c5328a2)] -> xpath: //input[@type='submit']]
+2018-02-12 19:26:58 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 19:30:02 INFO  TC003_SelectShoppingItem:43 - ________________Started execution verifyLogin__________
+2018-02-12 19:30:03 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 19:30:03 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 19:30:08 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 19:30:12 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (37ec7504-8678-4059-aa80-6b72cab2f76d)] -> xpath: //input[@type='submit']]
+2018-02-12 19:30:40 INFO  TC003_SelectShoppingItem:48 - ________________Clicked on Departement icon__________
+2018-02-12 22:49:12 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 22:49:15 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 22:49:15 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 22:49:15 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 22:49:17 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (7449a32b-fe3f-4a67-b3fa-231eedbbc26b)] -> xpath: //input[@type='submit']]
+2018-02-12 22:49:17 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 22:49:23 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 22:49:24 INFO  LoginPage:37 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (7449a32b-fe3f-4a67-b3fa-231eedbbc26b)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 22:49:30 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 22:51:30 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 22:51:33 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 22:51:33 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 22:51:33 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 22:51:34 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (9fdc2253-f38f-4ad2-a3e1-a9690b3450d2)] -> xpath: //input[@type='submit']]
+2018-02-12 22:51:34 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 22:53:14 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 22:53:38 INFO  LoginPage:38 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (9fdc2253-f38f-4ad2-a3e1-a9690b3450d2)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:01:25 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:01:27 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:01:27 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:01:32 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:01:36 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (bc72896d-35c6-4221-9b9c-f853b0a6e24a)] -> xpath: //input[@type='submit']]
+2018-02-12 23:01:36 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:01:36 INFO  LoginPage:40 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (bc72896d-35c6-4221-9b9c-f853b0a6e24a)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:01:42 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:04:04 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:04:06 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:04:06 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:04:06 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:04:08 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (0e984f8b-2ad8-42bf-99b1-fdfee93a46c0)] -> xpath: //input[@type='submit']]
+2018-02-12 23:04:08 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:04:30 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:05:03 INFO  LoginPage:40 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (0e984f8b-2ad8-42bf-99b1-fdfee93a46c0)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:05:45 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:06:15 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:06:16 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:06:16 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:06:21 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:06:26 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (59e7e7e8-2782-4421-9092-9efc9bdfd1c8)] -> xpath: //input[@type='submit']]
+2018-02-12 23:06:26 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:06:26 INFO  LoginPage:40 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (59e7e7e8-2782-4421-9092-9efc9bdfd1c8)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:06:32 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:08:19 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:08:20 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:08:21 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:08:21 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:08:22 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (6b5910e7-fe2e-4a92-94f4-58e13f2b1ac0)] -> xpath: //input[@type='submit']]
+2018-02-12 23:08:22 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:08:28 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:08:28 INFO  LoginPage:42 - ----------Move the mouse to -------->[[FirefoxDriver: firefox on XP (6b5910e7-fe2e-4a92-94f4-58e13f2b1ac0)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:08:35 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:10:11 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:10:12 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:10:13 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:10:13 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:10:14 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (d9967326-0f33-41d8-8d84-3013dc3bd5c1)] -> xpath: //input[@type='submit']]
+2018-02-12 23:10:14 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:10:20 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:10:20 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (d9967326-0f33-41d8-8d84-3013dc3bd5c1)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:10:21 INFO  LoginPage:47 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (d9967326-0f33-41d8-8d84-3013dc3bd5c1)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:10:21 INFO  LoginPage:49 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (d9967326-0f33-41d8-8d84-3013dc3bd5c1)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:10:26 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:12:50 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:12:53 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:12:54 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:12:59 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:13:03 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (07115dc9-9e57-460c-a9a5-9035b4247231)] -> xpath: //input[@type='submit']]
+2018-02-12 23:13:03 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:13:03 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (07115dc9-9e57-460c-a9a5-9035b4247231)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:13:04 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (07115dc9-9e57-460c-a9a5-9035b4247231)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:13:04 INFO  LoginPage:51 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (07115dc9-9e57-460c-a9a5-9035b4247231)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:13:10 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:14:44 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:14:46 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:14:46 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:14:51 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:14:56 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (8ffac57d-defe-43d7-a90a-5e7defe1bd8b)] -> xpath: //input[@type='submit']]
+2018-02-12 23:14:56 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:14:56 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (8ffac57d-defe-43d7-a90a-5e7defe1bd8b)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:14:57 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (8ffac57d-defe-43d7-a90a-5e7defe1bd8b)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:14:57 INFO  LoginPage:51 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (8ffac57d-defe-43d7-a90a-5e7defe1bd8b)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:15:02 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:17:04 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:17:07 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:17:07 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:17:12 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:17:18 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (9964149d-59f8-41aa-8b21-3d85fe9afee0)] -> xpath: //input[@type='submit']]
+2018-02-12 23:17:27 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:17:33 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (9964149d-59f8-41aa-8b21-3d85fe9afee0)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:20:01 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:20:06 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:20:06 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:20:06 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:20:11 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (fde45c23-05b1-4a12-9240-ceaf85943dd2)] -> xpath: //input[@type='submit']]
+2018-02-12 23:20:11 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:20:16 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:20:16 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (fde45c23-05b1-4a12-9240-ceaf85943dd2)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:20:17 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (fde45c23-05b1-4a12-9240-ceaf85943dd2)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:20:17 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (fde45c23-05b1-4a12-9240-ceaf85943dd2)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:20:22 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:20:33 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (9964149d-59f8-41aa-8b21-3d85fe9afee0)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:20:46 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (9964149d-59f8-41aa-8b21-3d85fe9afee0)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:21:04 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (9964149d-59f8-41aa-8b21-3d85fe9afee0)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:21:41 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:22:16 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:22:17 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:22:17 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:22:17 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:22:19 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (43fa5615-d1b0-4937-805a-362419a34ea3)] -> xpath: //input[@type='submit']]
+2018-02-12 23:22:20 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:22:24 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:22:24 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (43fa5615-d1b0-4937-805a-362419a34ea3)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:22:25 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (43fa5615-d1b0-4937-805a-362419a34ea3)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:22:25 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (43fa5615-d1b0-4937-805a-362419a34ea3)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-12 23:22:30 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-12 23:23:15 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-12 23:23:18 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-12 23:23:18 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-12 23:23:19 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-12 23:23:20 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (d5277671-00fa-4f49-8921-4bf4b82c80b6)] -> xpath: //input[@type='submit']]
+2018-02-12 23:23:21 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-12 23:23:28 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-12 23:23:32 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (d5277671-00fa-4f49-8921-4bf4b82c80b6)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-12 23:23:45 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (d5277671-00fa-4f49-8921-4bf4b82c80b6)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-12 23:29:52 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (d5277671-00fa-4f49-8921-4bf4b82c80b6)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:32:41 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:32:45 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:32:45 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:32:45 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 08:32:49 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (3b840eda-9af9-42c5-9177-b2339a537429)] -> xpath: //input[@type='submit']]
+2018-02-13 08:32:49 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:32:54 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:32:54 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (3b840eda-9af9-42c5-9177-b2339a537429)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 08:32:55 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (3b840eda-9af9-42c5-9177-b2339a537429)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 08:32:55 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (3b840eda-9af9-42c5-9177-b2339a537429)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:33:00 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 08:36:09 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:36:11 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:36:11 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:36:16 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:36:20 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (303e58e6-1cb3-4e17-8d43-ad1b53cda13d)] -> xpath: //input[@type='submit']]
+2018-02-13 08:36:36 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:36:44 INFO  LoginPage:42 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (303e58e6-1cb3-4e17-8d43-ad1b53cda13d)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 08:37:02 INFO  LoginPage:48 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (303e58e6-1cb3-4e17-8d43-ad1b53cda13d)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 08:37:21 INFO  LoginPage:52 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (303e58e6-1cb3-4e17-8d43-ad1b53cda13d)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:37:42 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 08:42:28 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:42:30 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:42:30 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:42:36 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:42:42 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (445af49c-90b7-4d44-a707-535f4a61f6d3)] -> xpath: //input[@type='submit']]
+2018-02-13 08:42:49 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:43:08 INFO  LoginPage:46 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (445af49c-90b7-4d44-a707-535f4a61f6d3)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 08:43:36 INFO  LoginPage:54 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (445af49c-90b7-4d44-a707-535f4a61f6d3)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 08:53:44 INFO  LoginPage:58 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (445af49c-90b7-4d44-a707-535f4a61f6d3)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:53:49 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 08:54:18 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:54:19 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:54:19 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:54:19 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 08:54:21 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (b08599f9-7a78-4241-afce-d583fc49efa2)] -> xpath: //input[@type='submit']]
+2018-02-13 08:54:21 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:54:26 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:54:26 INFO  LoginPage:47 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (b08599f9-7a78-4241-afce-d583fc49efa2)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 08:54:26 INFO  LoginPage:55 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (b08599f9-7a78-4241-afce-d583fc49efa2)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 08:54:27 INFO  LoginPage:59 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (b08599f9-7a78-4241-afce-d583fc49efa2)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:54:32 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 08:54:56 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:54:57 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:54:57 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:54:57 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 08:54:58 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (e78675d6-7ce7-4d2f-9dd8-d7484da235c4)] -> xpath: //input[@type='submit']]
+2018-02-13 08:54:58 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:55:04 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:55:15 INFO  LoginPage:47 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (e78675d6-7ce7-4d2f-9dd8-d7484da235c4)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 08:57:49 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 08:57:51 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 08:57:52 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 08:57:52 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 08:57:53 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (0915649e-c136-45b5-8f7b-f141d228d844)] -> xpath: //input[@type='submit']]
+2018-02-13 08:57:53 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 08:57:58 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 08:58:02 INFO  LoginPage:? - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (e78675d6-7ce7-4d2f-9dd8-d7484da235c4)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 08:58:10 INFO  LoginPage:? - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (e78675d6-7ce7-4d2f-9dd8-d7484da235c4)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 08:58:28 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 10:20:18 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:20:19 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:20:20 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:20:20 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 10:20:21 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (267ffdab-6b00-4b75-9aa7-90e186450a94)] -> xpath: //input[@type='submit']]
+2018-02-13 10:20:21 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:20:26 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:20:52 INFO  LoginPage:47 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (267ffdab-6b00-4b75-9aa7-90e186450a94)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 10:23:22 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:23:24 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:23:24 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:23:29 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:23:33 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (12331239-d184-41ec-ab1f-6725f12e4b2e)] -> xpath: //input[@type='submit']]
+2018-02-13 10:23:33 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:23:40 INFO  LoginPage:47 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (12331239-d184-41ec-ab1f-6725f12e4b2e)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 10:30:02 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:30:05 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:30:06 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:30:06 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 10:30:07 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (cc87e934-7b4d-4d0f-935c-fcd9e4f8d1c0)] -> xpath: //input[@type='submit']]
+2018-02-13 10:30:07 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:30:12 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:31:59 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:32:01 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:32:01 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:32:06 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:32:10 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (c5271b80-bcb5-4d9b-b60b-6b90b3baab19)] -> xpath: //input[@type='submit']]
+2018-02-13 10:32:10 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:34:56 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:34:57 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:34:58 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:35:03 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:35:08 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (120342e5-5b15-4b29-94db-2c82ea4a59f6)] -> xpath: //input[@type='submit']]
+2018-02-13 10:35:08 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:35:15 INFO  LoginPage:48 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (120342e5-5b15-4b29-94db-2c82ea4a59f6)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 10:35:35 INFO  LoginPage:57 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (120342e5-5b15-4b29-94db-2c82ea4a59f6)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 10:35:44 INFO  LoginPage:61 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (120342e5-5b15-4b29-94db-2c82ea4a59f6)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 10:38:15 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 10:39:47 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 10:39:48 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 10:39:48 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 10:39:53 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 10:40:00 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (1194421c-57b1-4cea-930e-e0b8c57aace3)] -> xpath: //input[@type='submit']]
+2018-02-13 10:40:00 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 10:40:16 INFO  LoginPage:48 - ----------Move the mouse to depatment -------->[[FirefoxDriver: firefox on XP (1194421c-57b1-4cea-930e-e0b8c57aace3)] -> xpath: //span[contains(text(),'Departments')]]
+2018-02-13 10:40:35 INFO  LoginPage:57 - ----------Move the mouse to SelectElectronic------->[[FirefoxDriver: firefox on XP (1194421c-57b1-4cea-930e-e0b8c57aace3)] -> xpath: //span[contains(text(),'Electronics, Computers & Office')]]
+2018-02-13 10:41:05 INFO  LoginPage:61 - ----------Move the mouse to SelectCellPhone------->[[FirefoxDriver: firefox on XP (1194421c-57b1-4cea-930e-e0b8c57aace3)] -> xpath: //span[contains(text(),'Cell Phones & Accessories')]]
+2018-02-13 10:41:41 INFO  TC003_SelectShoppingItem:58 - ________________Completed execution verifyLogin__________
+2018-02-13 12:39:37 INFO  TC003_SelectShoppingItem:44 - ________________Started execution verifyLogin__________
+2018-02-13 12:39:48 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 12:39:49 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 12:39:54 INFO  LoginPage:64 - ----------Entered the Password-------->Allah@123
+2018-02-13 12:39:59 INFO  LoginPage:66 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (6888dcb5-795a-4e5f-921f-610037487c81)] -> xpath: //input[@type='submit']]
+2018-02-13 12:39:59 INFO  TC003_SelectShoppingItem:49 - ________________Clicked on Departement icon__________
+2018-02-13 13:53:23 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-13 13:53:29 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 13:53:30 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 13:53:30 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 13:53:31 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (f845effe-df5b-4e16-b909-79d67f729845)] -> xpath: //input[@type='submit']]
+2018-02-13 13:53:32 INFO  LoginPage:59 - ----------Entered the Password-------->Allah@123
+2018-02-13 13:53:37 INFO  LoginPage:77 - ----------SignIn element is present-------->[[FirefoxDriver: firefox on XP (f845effe-df5b-4e16-b909-79d67f729845)] -> xpath: //a[@href='/gp/css/homepage.html/ref=nav_youraccount_btn']]
+2018-02-13 13:53:48 INFO  LoginPage:84 - ----------clicked on SignOut button-------->Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Sign Out')]'
+2018-02-13 13:53:48 INFO  TC001_VerifyLogin:33 - ________________Completed execution verifyLogin__________
+2018-02-13 13:56:36 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-13 13:56:37 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 13:56:38 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 13:56:38 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 13:56:39 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (fa2b98ca-25ef-48d3-8869-10e3616d02cb)] -> xpath: //input[@type='submit']]
+2018-02-13 14:01:24 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-13 14:01:27 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 14:01:27 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 14:01:27 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 14:01:28 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (96ccc45f-4219-43be-badd-77b5eb92aa70)] -> xpath: //input[@type='submit']]
+2018-02-13 14:05:14 INFO  TC001_VerifyLogin:29 - ________________Started execution verifyLogin__________
+2018-02-13 14:05:16 INFO  LoginPage:48 - ----------Clicked on SignIn-------------
+2018-02-13 14:05:16 INFO  LoginPage:50 - ----------Entered surename-------->sohaibcool@gmail.com
+2018-02-13 14:05:16 INFO  LoginPage:55 - ----------Password was not dispalyed-------->sohaibcool@gmail.com
+2018-02-13 14:05:17 INFO  LoginPage:57 - ----------clicked on Continue Button-------->[[FirefoxDriver: firefox on XP (8eadf835-6d4e-4ae5-8da5-5bb0e30e9e0a)] -> xpath: //input[@type='submit']]

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Regression Suite">
+<listeners>
+<listener class-name="com.test.qa.Amazon.customListner.Listener"></listener>
+</listeners>
 <test name="TC001_VerifyLogin">
 <classes>
 <class name="com.test.qa.Amazon.LoginPage.TC001_VerifyLogin"></class>
